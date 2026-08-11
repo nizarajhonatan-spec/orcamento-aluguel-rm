@@ -28,10 +28,6 @@ Projeto acadêmico da disciplina **Algorithmic Thinking & Introduction to Object
 | Apartamento para pessoa sem crianças | 5% de desconto |
 | Contrato imobiliário | R$ 2.000,00 em até 5 vezes |
 
-O enunciado cita metragem somente na apresentação geral de uma aplicação
-imobiliária. Ele não fornece preço por metro quadrado nem exige que a área seja
-usada no orçamento. Por isso, a aplicação calcula apenas as regras objetivas
-listadas acima.
 
 ## Como executar
 
