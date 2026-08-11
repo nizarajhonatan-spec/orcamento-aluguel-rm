@@ -4,3 +4,4 @@ __pycache__/
 .vscode/
 orcamento_rm_12_meses.csv
 documentos/
+gerar_documentos.py
