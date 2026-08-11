@@ -65,12 +65,15 @@ main.py               Interface gráfica e ponto de entrada
 
 O contrato imobiliário é cobrado nos primeiros meses, conforme a quantidade de parcelas escolhida. Assim, em cinco parcelas, R$ 400,00 são somados aos cinco primeiros aluguéis. Depois disso, permanece apenas o aluguel mensal. Quando a divisão produz diferença de centavos, a última parcela é ajustada para que a soma seja exatamente R$ 2.000,00. Em três vezes, por exemplo: R$ 666,67, R$ 666,67 e R$ 666,66.
 
-## Publicação no GitHub
+## Vídeo de apresentação
 
-Crie um repositório público, envie esta pasta e substitua a linha abaixo pelo endereço real antes da entrega:
+Assista à apresentação do projeto no YouTube:
 
-**Link do repositório:** [INSERIR LINK DO GITHUB]
+[Vídeo de apresentação — Gerador de Orçamento R.M.]
+
+(https://youtu.be/4btf0StisUQ)
 
 ## Autor
 
 Jhonatan Franco - Engenharia da Computação
+
