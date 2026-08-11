@@ -53,7 +53,6 @@ python -m unittest discover -s testes -v
 modelos/              Classes Imovel, Apartamento, Casa e Estudio
 servicos/             Cálculo do orçamento e geração do CSV
 testes/               Testes automatizados
-documentos/           Parte teórica e roteiro de apresentação
 main.py               Interface gráfica e ponto de entrada
 ```
 
